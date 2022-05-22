@@ -1,0 +1,14 @@
+{
+  "mumbai": {
+    "Factory": {
+      "address": "0x40834F278FeaD256c9D38f1f162183e28b545409",
+      "startBlock": 26217261
+    }
+  },
+  "rinkeby": {
+    "Factory": {
+      "address": "0x4dF367EE319E4AC07F0d3087f72955B0d2e50498",
+      "startBlock": 10703527
+    }
+  }
+}
